@@ -1,0 +1,42 @@
+body{
+    background-color: lightseagreen;
+}
+.menu
+{
+    list-style: none;
+    position: absolute;
+    
+    text-align: left;
+    cursor:pointer;
+    background-color: brown;
+color:ghostwhite;
+border-radius: 10px;
+margin-top: 0;
+border-color: blueviolet;
+border-width: 2px;
+border-style:ridge;
+margin-top:100px;
+}
+.link
+{
+    color:blueviolet;
+    float:left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+#image1
+{
+width: 200px;
+height:180px;
+border-radius:20px;
+}
+h2{
+    margin-top:150px;
+    color:white;
+}
+h3{
+    color:blueviolet
+}
